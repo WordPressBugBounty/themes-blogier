@@ -22,7 +22,7 @@
                     <?php blogier_blog_content(); 
                     $blogus_readmore_excerpt=get_theme_mod('blogus_blog_content','excerpt');
                     if ($blogus_readmore_excerpt=="excerpt") { ?>
-                    <a href="<?php the_permalink();?>" class="more-link"><?php echo esc_html('Read More', 'blogier'); ?></a>
+                    <a href="<?php the_permalink();?>" class="more-link"><?php esc_html_e('Read More', 'blogier'); ?></a>
                     <?php } ?>
             </article>
           </div>
