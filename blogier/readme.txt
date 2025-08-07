@@ -1,11 +1,11 @@
 ﻿=== Blogier ===
 Contributors: Themeansar
 Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
-Requires at least: 5.4
+Requires at least: 6.7
 Requires PHP: 7.4
-Tested up to: 6.7
-Stable tag: 1.9
-Version: 1.9
+Tested up to: 6.8
+Stable tag: 2.0
+Version: 2.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -21,6 +21,14 @@ Blogier is clean, powerful, flexible, highly customizable and Gutenberg ready Wo
 
 Blogier is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. Blogier is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. Blogier is SEO friendly, WPML,Gutenberg, translation and RTL ready. Live preview : https://demos.themeansar.com/blogus/blogier and documentation at https://docs.themeansar.com/docs/blogus/
 
+* Google Fonts
+* Josefin Sans
+    License: [Google Fonts Licensing](https://fonts.google.com/knowledge/glossary/licensing)  
+    Source: [Josefin Sans on Google Fonts](https://fonts.google.com/specimen/Josefin+Sans)
+
+* Rubik
+    License: [Google Fonts Licensing](https://fonts.google.com/knowledge/glossary/licensing)  
+    Source: [Rubik on Google Fonts](https://fonts.google.com/specimen/Rubik)
 
 == Image Licence == 
 
@@ -110,3 +118,7 @@ Blogier includes support for WooCommerce and Contact From 7.
 
 = 1.9 =
 * Fixed Translation Issue.
+
+= 2.0 =
+* Fixed Styling Issue.
+* Added Google Fonts Links.
